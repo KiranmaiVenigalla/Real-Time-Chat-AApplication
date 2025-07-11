@@ -33,3 +33,7 @@ Real-time chat applications also often integrate additional features such as typ
 In summary, a real-time chat application connects people instantly, making communication faster and more interactive. From simple personal chats to large-scale enterprise collaboration tools, real-time messaging has become an essential part of how people connect and work in the modern digital world.
 
 output
+
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/a3896506-2b6d-40cf-8cfe-744b279152ed" />
+
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/52e2c638-c540-4ee3-8f97-96cbf2054761" />
